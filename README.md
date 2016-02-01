@@ -1,2 +1,4 @@
-# graphic-design
-Graphic design resources for the Wiggleport project
+# Wiggleport graphics
+
+This repo holds logos, documentation artwork, and
+other bits of graphic design related to the Wiggleport project.
