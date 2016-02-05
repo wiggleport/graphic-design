@@ -2,7 +2,7 @@
 
 This repo holds logos, documentation artwork, and
 other bits of graphic design related to the Wiggleport project. For more about wiggleport itself, check out [wiggleport.org
-](http://wiggleport.org) Designs here are available under the included Creative Commons license terms.
+](http://wiggleport.org). Designs here are available under the included Creative Commons license terms.
 
 ## Wiggleport Logo
 
