@@ -3,6 +3,8 @@
 This repo holds logos, documentation artwork, and
 other bits of graphic design related to the Wiggleport project. For more about wiggleport itself, check out [wiggleport.org](http://wiggleport.org). Designs here are available under the included Creative Commons license terms.
 
+<img alt="CC-BY" src="http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png" width="80em" >
+
 ## Wiggleport Logo
 
 ### Wordmark
